@@ -1,0 +1,13 @@
+name: InterrogateBlockStorage
+author: Sefiraat
+description:
+main: dev.sefiraat.interrogateblockstorage.Interrogate
+website: https://github.com/Sefiraat/InterrogateBlockStorage
+version: ${project.version}
+api-version: 1.14
+depend:
+  - Slimefun
+commands:
+  interrogateblockstorage:
+    description: /inter
+    usage: /inter <sub>
